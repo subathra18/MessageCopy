@@ -13,7 +13,7 @@ const Filter = () => {
         GN's
       </div>
       <div className="hover:underline  decoration-yellow-400 underline-offset-8 ">
-        Love
+        Fun
       </div>
       <div className="hover:underline  decoration-sky-500  underline-offset-8 ">
         Sorry
